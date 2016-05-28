@@ -1,10 +1,10 @@
 # Disable Embeds Emoji #
-
-Contributors:       Abhishek_Ghosh 
+Author: Abhishek_Ghosh
 Author URI:         https://thecustomizewindows.com
 Tags:               embed, embeds, oembed, emoji  
 Requires at least:  4.4  
-Tested up to:       4.5  
+Tested up to:       4.5
+Contributors:       Abhishek_Ghosh
 Stable tag:         trunk  
 License:            GPLv2 or later  
 License URI:        http://www.gnu.org/licenses/gpl-2.0.html  
@@ -32,7 +32,7 @@ If you want embeds and emoji back again, simply deactivate the plugin.
 ### Manual Installation ###
 
 1. Upload the entire `/disable-embeds-emoji` directory to the `/wp-content/plugins/` directory.
-2. Activate Disable Embeds through the 'Plugins' menu in WordPress.
+2. Activate Disable Embeds Emoji through the 'Plugins' menu in WordPress.
 
 ## Frequently Asked Questions ##
 
