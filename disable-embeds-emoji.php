@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Disable Embeds and Emoji
  * Description: Easily disable WordPress 4.4+ oEmbed and Emoji Links, Javascripts, CSS, Rewrite using this plugin.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Abhishek_Ghosh
  * Author URI:  https://thecustomizewindows.com
  * License:     GPLv2+
