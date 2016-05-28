@@ -1,6 +1,6 @@
 # Disable Embeds Emoji #
 Contributors:      Abhishek_Ghosh 
-Donate link:       https://pascalbirchler.com  
+Author URI: https://thecustomizewindows.com
 Tags:              embed, embeds, oembed, emoji  
 Requires at least: 4.4  
 Tested up to:      4.5  
